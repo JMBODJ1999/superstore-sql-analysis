@@ -33,7 +33,7 @@ The main objectives of this project are:
 ### 1. Sales & Profit Evolution Over Time
 A time series analysis was performed to observe trends in sales and profit over months and years.
 
-👉 Insight: Helps identify growth trends and seasonal patterns.
+Insight: Helps identify growth trends and seasonal patterns.
 
 ---
 
@@ -43,7 +43,7 @@ A geographic analysis was conducted to identify the most and least profitable re
 - Profit distribution by region
 - State-level performance using a map visualization
 
-👉 Insight: Profit is concentrated in specific regions, while others show weaker performance.
+Insight: Profit is concentrated in specific regions, while others show weaker performance.
 
 ---
 
@@ -53,7 +53,7 @@ Products were ranked based on profitability:
 - Top 5 most profitable products
 - Bottom 5 least profitable (loss-generating) products
 
-👉 Insight: A small number of products generate most of the profit, while some products create losses.
+Insight: A small number of products generate most of the profit, while some products create losses.
 
 ---
 
@@ -64,11 +64,11 @@ Customer segments were analyzed based on total profit contribution.
 - Premium
 - Standard
 
-👉 Insight: One segment dominates overall profitability.
+Insight: One segment dominates overall profitability.
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 ### 🔹 Overview Dashboard
 ![Evolution](Evolution_Profitability.png)
@@ -100,6 +100,8 @@ Customer segments were analyzed based on total profit contribution.
 - SQL Aggregations (SUM,AVG,COUNT)
 - GROUP BY
 - CASE WHEN
+- LAG
+- CTE
 - Data visualization with Tableau
 - Tableau Dashboard Design
 
